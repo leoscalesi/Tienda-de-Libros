@@ -1,6 +1,5 @@
 # Tienda-de-Libros
 Sistema de gestion de tienda de venta de libros utilizando programacion estructurada y orientada a objetos.
-En esta ocasion, les presento un sistema de gestion de archivos para una tienda de venta de libros.
 
 En este proyecto utilizo conceptos de archivos, asignacion dinamica de memoria, programacion estructurada y orientada a objetos.
 
@@ -49,7 +48,7 @@ SUBMENU EMPLEADOS (empleado.cpp)
 
 __________________________
 
-RESTRICCIONES:
+RESTRICCIONES
 
 __________________________
 
