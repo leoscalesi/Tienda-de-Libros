@@ -24,6 +24,8 @@ MENU PRINCIPAL (main.cpp)
 -----------------------------------------------------------------------------------------
 
 -----------------------------------------------------------------------------------------
+
+
 SUBMENU EMPLEADOS (empleado.cpp)
 
 
@@ -38,6 +40,7 @@ SUBMENU EMPLEADOS (empleado.cpp)
 5-LISTAR EMPLEADOS
 
 0-VOLVER AL MENU PRINCIPAL
+
 
 
 
