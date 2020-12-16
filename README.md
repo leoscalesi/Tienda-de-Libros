@@ -6,6 +6,8 @@ En este proyecto utilizo conceptos de archivos, asignacion dinamica de memoria, 
 
 El sistema permite hacer ABM sobre 4 archivos.
 
+-----------------------------------------------------------------------------------------
+
 REQUERIMIENTOS
 
 
@@ -94,8 +96,11 @@ SUBMENU LIBROS (libro.cpp)
 0-VOLVER AL MENU PRINCIPAL
 
 
+-----------------------------------------------------------------------------------------
+
 RESTRICCIONES
 
+-----------------------------------------------------------------------------------------
 
 -NO SE PERMITIRA CARGAR CODIGOS DE LIBROS DUPLICADOS.
 
@@ -142,10 +147,11 @@ SUBMENU VENTAS (venta.cpp)
 
 LA VENTA ESTA DIVIDIDA EN DOS ARCHIVOS: VENTA CABECERA Y VENTA DETALLE.
 
-
+-----------------------------------------------------------------------------------------
 
 RESTRICCIONES
 
+-----------------------------------------------------------------------------------------
 
 -EL CODIGO DE EMPLEADO DEBE EXISTIR EN EL ARCHIVO empleados.dat.
 
