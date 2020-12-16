@@ -12,10 +12,13 @@ El sistema debera poseer un menu principal, de la siguiente manera:
 MENU PRINCIPAL (main.cpp)
 
 1-EMPLEADOS
+
 2-LIBROS
+
 3-VENTAS
 
 0-SALIR DEL PROGRAMA
+
 -----------------------------------------------------------------------------------------
 
 -----------------------------------------------------------------------------------------
