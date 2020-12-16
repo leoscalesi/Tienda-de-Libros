@@ -45,9 +45,11 @@ SUBMENU EMPLEADOS (empleado.cpp)
 0-VOLVER AL MENU PRINCIPAL
 
 
-
+__________________________
 
 RESTRICCIONES:
+
+__________________________
 
 -NO SE PERMITIRA CARGAR CODIGOS DE EMPLEADOS DUPLICADOS.
 
