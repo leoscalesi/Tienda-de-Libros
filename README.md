@@ -9,7 +9,9 @@ REQUERIMIENTOS
 El sistema debera poseer un menu principal, de la siguiente manera:
 
 -----------------------------------------------------------------------------------------
+
 MENU PRINCIPAL (main.cpp)
+
 
 1-EMPLEADOS
 
@@ -24,10 +26,15 @@ MENU PRINCIPAL (main.cpp)
 -----------------------------------------------------------------------------------------
 SUBMENU EMPLEADOS (empleado.cpp)
 
+
 1-CARGAR EMPLEADO
+
 2-LISTAR EMPLEADO POR CODIGO DE EMPLEADO
+
 3-MODIFICAR FECHA INGRESO
+
 4-ELIMINAR EMPLEADO
+
 5-LISTAR EMPLEADOS
 
 0-VOLVER AL MENU PRINCIPAL
