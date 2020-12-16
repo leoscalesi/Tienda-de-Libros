@@ -4,7 +4,9 @@ En esta ocasion, les presento un sistema de gestion de archivos para una tienda 
 
 El sistema permite hacer ABM sobre 4 archivos.
 
-REQUERIMIENTOS 
+REQUERIMIENTOS
+______________
+
 
 El sistema debera poseer un menu principal, de la siguiente manera:
 
